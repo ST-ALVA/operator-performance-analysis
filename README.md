@@ -70,7 +70,6 @@ Each row represents a **conversation**, not an individual call.
 
 ## Deliverables
 - **Jupyter Notebook (`.ipynb`)** — full reproducible analysis
-- **HTML report (`.html`)** — fast review without environment setup
 - **Tableau Dashboard** — interactive performance monitoring tool
 
 ---
