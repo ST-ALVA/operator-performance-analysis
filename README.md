@@ -72,6 +72,18 @@ Each row represents a **conversation**, not an individual call.
 - **Jupyter Notebook (`.ipynb`)** — full reproducible analysis
 - **Tableau Dashboard** — interactive performance monitoring tool
 
+### 📊 Interactive Visualizations (Plotly)
+
+This project includes **interactive Plotly visualizations** that allow deeper exploration of operator performance across metrics and groups.
+
+1. Download the file **`operator_performance_analysis_telecom.html`**
+2. Open it locally in any modern web browser (Chrome, Firefox, Safari).
+
+> ⚠️ GitHub does not render Plotly interactivity inside notebooks or HTML previews.  
+> For full interactivity (dropdowns, tooltips, dynamic filtering), the HTML file must be opened locally.
+
+These visualizations complement the Tableau dashboard by enabling **operator-level and metric-level exploration** directly from the analysis notebook.
+
 ---
 
 ## Validation
